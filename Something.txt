@@ -1,0 +1,1 @@
+Notifications may include alerts, sounds, and icon badges.
